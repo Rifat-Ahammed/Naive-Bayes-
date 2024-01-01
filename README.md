@@ -1,2 +1,2 @@
 # Naive-Bayes-
-# TO get the Dataset open master brance. There you will get the dataset.
+# TO get the Dataset open master brance. There you will be able to see the dataset.
